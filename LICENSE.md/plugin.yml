@@ -1,0 +1,9 @@
+name: EpicPermissions
+description: a simple plpugin for configuring permissions.
+version: 1.1.1
+main: me.astronomize.ep.Main
+
+commands:
+  epicperms: 
+    permission: epicperms.main
+    usage: epicperms
